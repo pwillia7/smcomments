@@ -1,16 +1,17 @@
 comments:
-allowedFields: ["name", "comment"]
-branch: "master"
-commitMessage: "New comment in {options.slug}"
-filename: "comment-{@timestamp}"
-format: "yaml"
-generatedFields:
-date:
-type: date
-options:
-moderation: true
-name: "600,000 Milliliters"
-path: "{options.slug}"
-requiredFields: ["name", "comment"]
-transforms:
-email: md5
+  allowedFields: ["name", "comment"]
+  branch: "master"
+  commitMessage: "New comment in {options.slug}"
+  filename: "comment-{@timestamp}"
+  format: "yaml"
+  generatedFields:
+    date:
+      type: date
+      options:
+        format: "iso8601"
+  moderation: true
+  name: "600,000 Milliliters"
+  path: "{options.slug}"
+  requiredFields: ["name", "comment"]
+  transforms:
+    email: md5
