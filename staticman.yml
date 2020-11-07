@@ -13,5 +13,3 @@ comments:
   name: "600,000 Milliliters"
   path: "{options.slug}"
   requiredFields: ["name", "comment"]
-  transforms:
-    email: md5
