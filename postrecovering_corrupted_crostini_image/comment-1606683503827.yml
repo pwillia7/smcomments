@@ -1,0 +1,8 @@
+_id: 9e920160-3285-11eb-a035-15aaa46c4dcb
+comment: >-
+  There is no need to "install" crosh. crosh is installed on every single
+  chromeos device. What you downloaded is the ssh extension to crosh which only
+  exists since ssh was removed form crosh a while ago. vmc works perfectly fine
+  without the ssh extension so this is just an unnecessary step.
+name: Saragon
+date: '2020-11-29T20:58:23.825Z'
