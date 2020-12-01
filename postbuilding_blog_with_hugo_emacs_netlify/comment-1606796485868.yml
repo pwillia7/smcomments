@@ -1,0 +1,4 @@
+_id: ad125570-338c-11eb-9916-6d48277b8002
+comment: "I've setup Jekyll in the past but didn't get much further than getting everything stood up. My experience with Hugo was much better, though I haven't tried Jekyll in several years. \r\n\r\nDisqus is very easy to setup in Hugo. I have staticman running here, which I'll cover setting up in the next post. https://staticman.net/"
+name: sixml
+date: '2020-12-01T04:21:25.864Z'
