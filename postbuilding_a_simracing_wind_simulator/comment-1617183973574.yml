@@ -1,0 +1,10 @@
+_id: ee3c40b0-9205-11eb-932f-8b73137121a7
+comment: >-
+  Hey, I have looked into your project and it is exactly as mine. I am having a
+  problem which is: the fans either work at 100% or dont work at all. Do you
+  connect the PWM wire(blue) from the fan to somewhere? I cutted both the yellow
+  and blue wire, isolated them and connected the power cables to the MotoShield
+  Output, is this ok? Can you show me your wiring schematics, or maybe the
+  simHub settings?  Best Regards.
+name: Luis Maria Lisboa
+date: '2021-03-31T09:46:13.569Z'
